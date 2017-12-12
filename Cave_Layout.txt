@@ -1,0 +1,40 @@
+10 1 1
+1 2 6 10
+A worn metal sign sits in the first room and read "Danger Deadly Wumpus Inside"
+2 1 3 7
+You see a blue fish humanoid frozen in ice
+3 2 4 8
+There is a lone bonfire wait to be lit
+4 3 5 9
+A ray of light is shining on an anciet sword that as not moved for years
+5 4 6 15
+You find a dark portal that leads to another outlandish world
+6 1 5 13
+A large metal door with a large number on it stands before you
+7 2 6 14
+This room is in a blazing inferno
+8 12 7 9
+You find a high tech limb augmenatation
+9 4 8 10
+These seems to be a looming presence in the room
+10 1 5 11
+You find a ominous icy throne
+11 10 14 20
+
+12 8 20 18
+
+13 6 17 2
+
+14 7 11 17
+
+15 5 19 15
+
+16 18 19 20
+
+17 13 14 15
+
+18 16 12 19
+
+19 15 16 18
+
+20 11 12 16
