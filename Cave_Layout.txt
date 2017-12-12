@@ -22,19 +22,20 @@ You find a ominous icy throne
 11 10 14 20
 You notice one half of the room is ice cold and the other half is firey warm
 12 8 20 18
-You notice a doll that's looking down with long block hair standing your direction
+You notice a doll that's looking down with long block hair staring your direction
 13 6 17 2
-
+You seem to have stumbled apon the Demon King Kalothu's tomb
 14 7 11 17
-
+You have discovered the Undergorund Tar Pits of Mogahor
 15 5 19 15
-
+Stands before you are the ancient dwarven gates of Kalazdan
 16 18 19 20
-
+You find the, thinkly empty, lair of a nefarious necoromancer
 17 13 14 15
-
+You come a across the mesmerizing Pools of Naju
 18 16 12 19
-
+This room seems to resemble the lost armory of a once great king
 19 15 16 18
-
+This room of is over flowing with both deadly and beautiful flowers
 20 11 12 16
+You find a pickaxe long forgotten embedded in the wall of this room
