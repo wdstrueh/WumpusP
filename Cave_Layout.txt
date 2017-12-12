@@ -20,9 +20,9 @@ These seems to be a looming presence in the room
 10 1 5 11
 You find a ominous icy throne
 11 10 14 20
-
+You notice one half of the room is ice cold and the other half is firey warm
 12 8 20 18
-
+You notice a doll that's looking down with long block hair standing your direction
 13 6 17 2
 
 14 7 11 17
